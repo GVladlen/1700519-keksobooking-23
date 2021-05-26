@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Владлен Гылыпкылов](https://up.htmlacademy.ru/javascript/23/user/1700519).
-* Наставник: `Неизвестно`.
+- Студент: [Владлен Гылыпкылов](https://up.htmlacademy.ru/javascript/23/user/1700519).
+- Наставник: [Анастасия Васинская](https://htmlacademy.ru/profile/vanastasiya/id811447)
 
 ---
 
